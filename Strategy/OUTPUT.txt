@@ -1,0 +1,11 @@
+I'm a real Mallard duck
+Quack
+I'm flying!!
+
+I'm a rubber duck
+Squeak
+I can't fly
+
+I'm a model duck
+<< Silence >>
+I can't fly
